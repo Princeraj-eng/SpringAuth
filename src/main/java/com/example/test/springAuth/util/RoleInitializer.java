@@ -1,7 +1,7 @@
 package com.example.test.springAuth.util;
 
-import com.example.test.springAuth.entity.Roles;
-import com.example.test.springAuth.repository.RoleRepository;
+import com.example.test.springAuth.entity.pSqlEntity.Roles;
+import com.example.test.springAuth.repository.pSqlRepo.RoleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

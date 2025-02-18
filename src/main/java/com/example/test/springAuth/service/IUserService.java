@@ -1,7 +1,7 @@
 package com.example.test.springAuth.service;
 
 import com.example.test.springAuth.dto.UserDTO;
-import com.example.test.springAuth.entity.User_app;
+import com.example.test.springAuth.entity.pSqlEntity.User_app;
 
 import java.util.List;
 

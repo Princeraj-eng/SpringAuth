@@ -1,11 +1,11 @@
 package com.example.test.springAuth.service;
 
 import com.example.test.springAuth.dto.UserDTO;
-import com.example.test.springAuth.entity.Roles;
-import com.example.test.springAuth.entity.User_app;
+import com.example.test.springAuth.entity.pSqlEntity.Roles;
+import com.example.test.springAuth.entity.pSqlEntity.User_app;
 import com.example.test.springAuth.exception.*;
-import com.example.test.springAuth.repository.RoleRepository;
-import com.example.test.springAuth.repository.UserRepository;
+import com.example.test.springAuth.repository.pSqlRepo.RoleRepository;
+import com.example.test.springAuth.repository.pSqlRepo.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

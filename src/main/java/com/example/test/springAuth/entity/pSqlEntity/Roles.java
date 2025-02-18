@@ -1,6 +1,5 @@
-package com.example.test.springAuth.entity;
+package com.example.test.springAuth.entity.pSqlEntity;
 
-import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;

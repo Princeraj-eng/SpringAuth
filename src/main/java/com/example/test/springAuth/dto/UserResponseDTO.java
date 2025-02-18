@@ -1,7 +1,6 @@
 package com.example.test.springAuth.dto;
 
-import com.example.test.springAuth.entity.User_app;
-import jakarta.persistence.Column;
+import com.example.test.springAuth.entity.pSqlEntity.User_app;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

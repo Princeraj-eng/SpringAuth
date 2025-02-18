@@ -1,13 +1,11 @@
-package com.example.test.springAuth.entity;
+package com.example.test.springAuth.entity.pSqlEntity;
 
-import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.util.Date;
-import java.util.HashSet;
 import java.util.Set;
 
 @Data

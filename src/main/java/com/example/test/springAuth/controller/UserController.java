@@ -2,8 +2,7 @@ package com.example.test.springAuth.controller;
 
 import com.example.test.springAuth.dto.APIResponse;
 import com.example.test.springAuth.dto.UserDTO;
-import com.example.test.springAuth.dto.UserResponseDTO;
-import com.example.test.springAuth.entity.User_app;
+import com.example.test.springAuth.entity.pSqlEntity.User_app;
 import com.example.test.springAuth.service.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

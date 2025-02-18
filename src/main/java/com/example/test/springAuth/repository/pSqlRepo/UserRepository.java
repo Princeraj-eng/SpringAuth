@@ -1,6 +1,6 @@
-package com.example.test.springAuth.repository;
+package com.example.test.springAuth.repository.pSqlRepo;
 
-import com.example.test.springAuth.entity.User_app;
+import com.example.test.springAuth.entity.pSqlEntity.User_app;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
